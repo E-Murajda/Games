@@ -3,7 +3,6 @@ import time
 import random
 
 pygame.init()
-global speed
 
 # colors
 white = (255, 255, 255)
